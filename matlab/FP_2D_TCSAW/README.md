@@ -134,7 +134,7 @@ FP_2D_TCSAW/
 
 如本算例对你有帮助,欢迎引用本仓库:
 
-[DuanSAW citation guide / 引用指南](../CITING.md)
+[SawSim citation guide / 引用指南](../CITING.md)
 
 ---
 

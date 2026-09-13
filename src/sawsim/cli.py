@@ -32,7 +32,7 @@ def cmd_serve(args):
 
 
 def main(argv=None):
-    p = argparse.ArgumentParser(prog="sawsim", description="DuanSAW unit-cell piezoelectric FEM")
+    p = argparse.ArgumentParser(prog="sawsim", description="SawSim unit-cell piezoelectric FEM")
     sub = p.add_subparsers(dest="cmd", required=True)
     r = sub.add_parser("run", help="run a sweep from a JSON config")
     r.add_argument("config"); r.add_argument("-o", "--output", required=True)

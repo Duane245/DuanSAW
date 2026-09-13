@@ -2,17 +2,17 @@
 
 **中文** · [English](README.en.md)
 
-# DuanSAW · sawsim
+# SawSim
 
 **声表面波（SAW）谐振器周期单元的压电耦合有限元求解器**
 Piezoelectric coupled FEM for SAW resonator unit cells · Q9 / Hex27 · PML · Bloch periodicity
 
-[![CI](https://github.com/Duane245/DuanSAW/actions/workflows/ci.yml/badge.svg)](https://github.com/Duane245/DuanSAW/actions/workflows/ci.yml)
+[![CI](https://github.com/Duane245/sawsim/actions/workflows/ci.yml/badge.svg)](https://github.com/Duane245/sawsim/actions/workflows/ci.yml)
 [![DOI v2.0.0](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22728471-1682D4?logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.22728471)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?logo=python&logoColor=white)
 ![License](https://img.shields.io/badge/License-AGPL--3.0-blue)
 
-**DuanSAW** 是项目与引用名；**sawsim** 是 Python 包名与命令名；在线服务 sawsim.com 即将开放。
+项目名 **SawSim**；Python 包名与命令名 `sawsim`；在线服务 sawsim.com 即将开放。
 
 </div>
 
@@ -21,7 +21,7 @@ Piezoelectric coupled FEM for SAW resonator unit cells · Q9 / Hex27 · PML · B
 ## 安装与使用
 
 ```bash
-pip install git+https://github.com/Duane245/DuanSAW
+pip install git+https://github.com/Duane245/sawsim
 pip install "sawsim[fast]"     # 可选：MKL PARDISO 直接求解器
 ```
 

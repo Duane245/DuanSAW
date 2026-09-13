@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "For a released version, cite its Zenodo record using the archived title and version DOI. See CITING.md for citation examples and the project rename history."
 type: software
-title: "DuanSAW: An open-source solver for surface acoustic wave simulation"
+title: "SawSim: An open-source solver for surface acoustic wave simulation"
 abstract: >
   A MATLAB + Gmsh piezoelectric finite-element solver for the frequency-domain
   simulation and design of Surface Acoustic Wave (SAW) resonators and filters,
@@ -12,8 +12,8 @@ authors:
     given-names: Shaoqing
     # orcid: "https://orcid.org/0000-0000-0000-0000"   # 有就反注释并填
     # affiliation: ""                                    # 单位（可留空）
-repository-code: "https://github.com/Duane245/DuanSAW"
-url: "https://github.com/Duane245/DuanSAW"
+repository-code: "https://github.com/Duane245/sawsim"
+url: "https://github.com/Duane245/sawsim"
 license: MIT
 version: "0.4.0"
 date-released: "2026-06-10"

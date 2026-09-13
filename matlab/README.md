@@ -1,6 +1,6 @@
 <div align="center">
 
-# DuanSAW
+# SawSim
 
 原名 **SAW-FEM-MATLAB**。开源声表面波仿真求解器。
 

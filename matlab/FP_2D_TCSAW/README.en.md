@@ -134,7 +134,7 @@ FP_2D_TCSAW/
 
 If this demo is useful in your work, please consider citing the repository:
 
-[DuanSAW citation guide / 引用指南](../CITING.md)
+[SawSim citation guide / 引用指南](../CITING.md)
 
 ---
 

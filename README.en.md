@@ -2,17 +2,17 @@
 
 [中文](README.md) · **English**
 
-# DuanSAW · sawsim
+# SawSim
 
 **Piezoelectric coupled finite-element solver for SAW resonator unit cells**
 Q9 / Hex27 · PML · Bloch periodicity · verified against a reference FEM solution
 
-[![CI](https://github.com/Duane245/DuanSAW/actions/workflows/ci.yml/badge.svg)](https://github.com/Duane245/DuanSAW/actions/workflows/ci.yml)
+[![CI](https://github.com/Duane245/sawsim/actions/workflows/ci.yml/badge.svg)](https://github.com/Duane245/sawsim/actions/workflows/ci.yml)
 [![DOI v2.0.0](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22728471-1682D4?logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.22728471)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?logo=python&logoColor=white)
 ![License](https://img.shields.io/badge/License-AGPL--3.0-blue)
 
-**DuanSAW** is the project and citation name; **sawsim** is the Python package and command; the hosted service at sawsim.com opens soon.
+Project name **SawSim**; Python package and command `sawsim`; the hosted service at sawsim.com opens soon.
 
 </div>
 
@@ -21,7 +21,7 @@ Q9 / Hex27 · PML · Bloch periodicity · verified against a reference FEM solut
 ## Install and use
 
 ```bash
-pip install git+https://github.com/Duane245/DuanSAW
+pip install git+https://github.com/Duane245/sawsim
 pip install "sawsim[fast]"     # optional: MKL PARDISO direct solver
 ```
 

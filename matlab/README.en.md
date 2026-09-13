@@ -1,6 +1,6 @@
 <div align="center">
 
-# DuanSAW
+# SawSim
 
 Formerly known as **SAW-FEM-MATLAB**. An open-source solver for surface acoustic wave simulation.
 

@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "sawsim"
 version = "2.0.0.dev0"
-description = "sawsim (DuanSAW v2): piezoelectric coupled finite-element solver for SAW resonator unit cells (Q9 / Hex27, PML, Bloch periodicity)"
+description = "SawSim: piezoelectric coupled finite-element solver for SAW resonator unit cells (Q9 / Hex27, PML, Bloch periodicity)"
 readme = "README.md"
 requires-python = ">=3.8"
 license = {text = "AGPL-3.0-or-later"}
@@ -33,8 +33,8 @@ dev = ["pytest"]
 sawsim = "sawsim.cli:main"
 
 [project.urls]
-Homepage = "https://github.com/Duane245/DuanSAW"
-Repository = "https://github.com/Duane245/DuanSAW"
+Homepage = "https://github.com/Duane245/sawsim"
+Repository = "https://github.com/Duane245/sawsim"
 
 [tool.setuptools]
 package-dir = {"" = "src"}

@@ -5,7 +5,7 @@
 ## 安装
 
 ```bash
-pip install git+https://github.com/Duane245/DuanSAW      # 或克隆后 pip install -e .
+pip install git+https://github.com/Duane245/sawsim      # 或克隆后 pip install -e .
 pip install "sawsim[fast]"                                # 可选：pypardiso（MKL PARDISO 直接求解器）
 ```
 

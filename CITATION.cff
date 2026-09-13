@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this software, cite the concept DOI (all versions) or the Zenodo record of the version you used."
 type: software
-title: "DuanSAW: An open-source solver for surface acoustic wave simulation"
+title: "SawSim: An open-source piezoelectric finite-element solver for SAW resonators"
 abstract: >
   Piezoelectric coupled finite-element solver for the frequency-domain simulation of
   Surface Acoustic Wave (SAW) resonator unit cells. Version 2 is the Python package
@@ -13,8 +13,8 @@ abstract: >
 authors:
   - family-names: Duan
     given-names: Shaoqing
-repository-code: "https://github.com/Duane245/DuanSAW"
-url: "https://github.com/Duane245/DuanSAW"
+repository-code: "https://github.com/Duane245/sawsim"
+url: "https://github.com/Duane245/sawsim"
 license: AGPL-3.0-or-later
 version: "2.0.0"
 date-released: "2026-09-12"
