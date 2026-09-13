@@ -8,7 +8,7 @@
 Piezoelectric coupled FEM for SAW resonator unit cells · Q9 / Hex27 · PML · Bloch periodicity
 
 [![CI](https://github.com/Duane245/DuanSAW/actions/workflows/ci.yml/badge.svg)](https://github.com/Duane245/DuanSAW/actions/workflows/ci.yml)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20362278.svg)](https://doi.org/10.5281/zenodo.20362278)
+[![DOI v2.0.0](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22728471-1682D4?logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.22728471)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?logo=python&logoColor=white)
 ![License](https://img.shields.io/badge/License-AGPL--3.0-blue)
 
@@ -83,5 +83,5 @@ Python 包 `sawsim` 以 **AGPL-3.0-or-later** 发布（它通过 Python API 链�
 
 ## 引用
 
-请引用概念 DOI [10.5281/zenodo.20362278](https://doi.org/10.5281/zenodo.20362278)，它始终指向最新版本；格式见 [CITATION.cff](CITATION.cff)。
+引用具体版本请用版本 DOI（v2.0.0：[10.5281/zenodo.22728471](https://doi.org/10.5281/zenodo.22728471)）；引用项目整体请用概念 DOI [10.5281/zenodo.20362278](https://doi.org/10.5281/zenodo.20362278)，它始终指向最新版本。格式见 [CITATION.cff](CITATION.cff)。
 

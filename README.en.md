@@ -8,7 +8,7 @@
 Q9 / Hex27 · PML · Bloch periodicity · verified against a reference FEM solution
 
 [![CI](https://github.com/Duane245/DuanSAW/actions/workflows/ci.yml/badge.svg)](https://github.com/Duane245/DuanSAW/actions/workflows/ci.yml)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20362278.svg)](https://doi.org/10.5281/zenodo.20362278)
+[![DOI v2.0.0](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22728471-1682D4?logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.22728471)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?logo=python&logoColor=white)
 ![License](https://img.shields.io/badge/License-AGPL--3.0-blue)
 
@@ -83,4 +83,4 @@ The Python package `sawsim` is released under **AGPL-3.0-or-later** (it links th
 
 ## Citation
 
-Cite the concept DOI [10.5281/zenodo.20362278](https://doi.org/10.5281/zenodo.20362278), which always resolves to the latest version; see [CITATION.cff](CITATION.cff) for the format.
+To cite a specific version use its version DOI (v2.0.0: [10.5281/zenodo.22728471](https://doi.org/10.5281/zenodo.22728471)); to cite the project as a whole use the concept DOI [10.5281/zenodo.20362278](https://doi.org/10.5281/zenodo.20362278), which always resolves to the latest version. See [CITATION.cff](CITATION.cff) for the format.
